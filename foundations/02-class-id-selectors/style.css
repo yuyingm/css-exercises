@@ -1,0 +1,15 @@
+.odd-no {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: pink;
+}
+
+.second {
+    color: blue;
+    font-size: 36px;
+}
+
+.fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
